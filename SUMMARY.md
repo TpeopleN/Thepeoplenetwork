@@ -17,6 +17,7 @@
 * [Opportunity](important/opportunity.md)
 * [Tractions/Expectations](important/tractions-expectations.md)
 * [Fly Wheel](important/fly-wheel.md)
+* [Algorithms](important/algorithms.md)
 
 ## Business Model Canvas - BMC
 

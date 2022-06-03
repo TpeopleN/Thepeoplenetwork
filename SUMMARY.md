@@ -1,9 +1,10 @@
 # Table of contents
 
-* [INTRO](README.md)
-  * [Introducing](intro/introducing/README.md)
-    * [Imagine](intro/introducing/imagine.md)
-    * [Problem](intro/introducing/problem.md)
+* [Abstract](README.md)
+* [Intro.](intro./README.md)
+  * [Introducing](intro./introducing/README.md)
+    * [Imagine](intro./introducing/imagine.md)
+    * [Problem](intro./introducing/problem.md)
 
 ## Solution
 

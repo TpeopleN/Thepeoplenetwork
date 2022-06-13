@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Abstract](README.md)
+* [Pitch Deck](pitch-deck.md)
 * [Intro.](intro./README.md)
   * [Introducing](intro./introducing/README.md)
     * [Imagine](intro./introducing/imagine.md)
